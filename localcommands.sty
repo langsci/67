@@ -1,0 +1,88 @@
+%add all your local new commands to this file
+% \newcommand{\PS}{Pite Saami}
+% \newcommand{\REF}[1]{(\ref{#1})}%adds parenthesis around the reference number, particularly useful for examples. 
+ 
+\newcommand\textstyleVernacularWords[1]{#1}
+\newcommand\textstyleFootnoteSymbol[1]{\textsuperscript{#1}}
+\newcommand\textstyleAcronymallcaps[1]{\textsc{#1}}
+\newcommand\textstyleEmphasizedWords[1]{\textsc{#1}}
+\newcommand\textstyleForeignWords[1]{\textit{#1}}
+\newcommand\textstyleStyleVernacularWordsItalic[1]{\textit{#1}}
+\newcommand\textstyleEmphasizedVernacularWords[1]{\textbf{#1}}
+\newcommand\textstyleBibliogBaseChar[1]{#1}
+\newcommand\textstyleListBaseChar[1]{#1}
+\newcommand\textstyleBibliogCitationAAAstyleChar[1]{#1}
+\newcommand\textstyleParagraphCharChar[1]{#1}
+\newcommand\textstyleFootnoteBaseChar[1]{#1}
+\newcommand\textstyleFreeTranslationChar[1]{#1}
+\newcommand\textstyleStyleVernacularWordsxiiptItalic[1]{\textit{#1}}
+\newcommand\textstyleDefinedWords[1]{\textbf{#1}}
+\newcommand\textstyleParagraphContinuationChar[1]{#1}
+\newcommand\textstyleParagraphChari[1]{#1}
+\newcommand\textstyleTableEntryChar[1]{#1}
+\newcommand\textstyleDefinitionE[1]{#1}
+\newcommand\textstyleEncyclopedicinfoE[1]{#1} 
+\newcommand\textstylefstandard[1]{#1}
+\newcommand\textstyleStyleParagraphSILDoulosUnicodeIPAChar[1]{#1}
+\newcommand\textstyleBookorJournalTitle[1]{\textit{#1}}
+\newcounter{nx}
+
+\newcommand{\emphs}{\emph}
+% \newcommand{\textprimstress}{'}
+% \newcommand{\textyogh}{ZH}
+% \newcommand{\textfishhookr}{R}
+% \newcommand{\sectref}[1]{{\SS}~\ref{#1}}
+% \newcommand{\tableref}[1]{Table~\ref{#1}}
+% \newcommand{\tabref}[1]{Table~\ref{#1}}
+% \newcommand{\figref}[1]{Figure~\ref{#1}}
+
+\usepackage{cancel}
+\newcommand{\mytoprule}{\midrule\toprule}
+\newcommand{\mybottomrule}{\bottomrule\midrule}
+
+\renewcommand{\Tilde}{∼}
+
+% \newcommand{\chapref}[1]{Chapter~\ref{#1}}
+
+\newcommand{\liniea}[2]{\raisebox{#1pt}{\parbox{.1mm}{\rule{#2pt}{.5pt}}}}
+
+\newcommand{\linieb}[2]{\settowidth{\LSPTmp}{#2}\raisebox{#1pt}{\parbox{.1mm}{\rule{\LSPTmp}{.5pt}}}#2}
+
+\newcommand{\liniec}[2]{\settowidth{\LSPTmp}{#2pt}%
+  \raisebox{#1}{%
+    \parbox{.1mm}{\bcancel{\hspace*{\LSPTmp}}}%
+  }%
+  #2%
+}
+
+%\newcommand{\dline}[3]{%
+%  \parbox{.1mm}{\begin{picture}(0,0)%
+%			  \put(0,#1){\line(#2,-1){#3}}%
+%			  \end{picture}%
+%  }%
+%}
+
+
+\newcommand{\raiser}[4]{%
+  \parbox{.1mm}{\begin{picture}(0,0)%
+			  \put(0,#1){\line(#2,#3){#4}}%
+			  \end{picture}%
+  }%
+}
+ 
+
+\newcommand{\rise}[1]{%
+\raisebox{#1pt}{%
+\begin{rotate}{20}%
+% --%
+~\rule{1mm}{.15mm}
+\end{rotate}%
+}%
+}
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+
+% Bib name
+\renewcommand{\bibname}{References}

@@ -1,0 +1,40 @@
+\resizebox{\textwidth}{!}{
+\begin{tikzpicture}
+
+% Individuals
+
+\node	(moro)				at	(0,0) [fill=gray!30, rounded corners=5, rounded corners=5]																{\textsc{Moro}};
+\node	(meriman)			[below right=1mm and 17mm of moro, fill=gray!30, rounded corners=5]			{\textsc{Meriman}};
+\node	(sapara)			[below right=1mm and 12mm of meriman, fill=gray!30, rounded corners=5]		{\textsc{Sapara}};
+\node	(muaka)				[below=30mm of meriman, fill=gray!30, rounded corners=5]									{\textsc{Muaka}};
+\node	(amiten)			[below left=25mm and 15mm of moro, fill=gray!30, rounded corners=5]			{\textsc{Amiten}};	
+\node	(aketa)				[below right=15mm and 11mm of amiten, fill=gray!30, rounded corners=5]		{\textsc{Aketa}};
+\node	(saramun)			[below right=26mm and 45mm of aketa, fill=gray!30, rounded corners=5]		{\textsc{Saramun}};
+\node	(yeipamir)			[below right=26mm and 0mm of aketa, fill=gray!30, rounded corners=5]	{\textsc{Yeipamir}};
+\node	(papur)				[below right=36mm and 0mm of aketa, fill=gray!30, rounded corners=5]			{\textsc{Papur}};
+\node	(tarigapa)			[right=30mm of papur, fill=gray!30, rounded corners=5]									{\textsc{Tarigapa}};
+\node	(ulingan)		  	[right=55mm of muaka, fill=gray!30, rounded corners=5]									{\textsc{Ulingan}};
+\node	(meiwok)			[right=16mm of ulingan, fill=gray!30, rounded corners=5]									{\textsc{Meiwok}};
+\node	(sikor)				[above right=8mm and 1mm of ulingan, fill=gray!30, rounded corners=5]		{\textsc{Sikor}};
+\node	(susure)			[below=6mm of amiten, fill=gray!30, rounded corners=5]									{\textsc{(Susure)}};
+\node	(wakoruma)		[below left=3mm and 17mm of moro, fill=gray!30, rounded corners=5]			{\textsc{(Wakoruma)}};
+
+% Groups
+
+\node (inon) [draw, dashed, fit=(sikor) (papur) (yeipamir) (tarigapa) (saramun) (ulingan) (meiwok) (aketa) (muaka), rounded corners=50] {} node at (inon.45) [above] {\textit{inon}};
+
+\node  (unan) [draw, rounded corners=25, fit=(moro) (meriman) (sapara), inner sep=3mm] {} node at (unan.24) [above] {\textit{unan}};
+
+\node (era) [draw, fit=(unan) (sikor), inner sep=6mm, rounded corners=50] {} node at (era.28) [above] {\textit{-era}};
+
+\node (inuan) [draw, shape=ellipse, dashed, rounded corners=0, fit=(amiten) (aketa) (muaka) (susure)] {} node at (inuan.150) [above left] {\textit{inuan}};  
+
+\node (inowa) [draw, fit=(unan) (aketa) (muaka), inner sep=9mm, rounded corners=50] {} node at (inowa.55) [above] {\textit{inowa}};
+
+\node (uruplya) [draw, fit=(inowa) (wakoruma) (amiten) (susure), rounded corners=50, inner sep=6mm] {} node at (uruplya.46) [above] {\textit{uruplya}};
+
+\node (ikiwiya) [draw, fit=(uruplya), inner sep=6mm, rounded corners=50] {} node at (ikiwiya.50) [above] {\textit{ikiwiya}};
+
+
+\end{tikzpicture}
+}

@@ -1,0 +1,1299 @@
+action nominal
+adjective class
+adjective phrase
+adverb
+adverbial phrase
+adversative
+adversative coordinator
+affixation
+agent
+agentive
+agglutinative
+alienably possessed nouns
+allomorphs
+allophonic variation
+alternative question
+alveo-palatal
+alveolar
+antonymous
+article
+aspect
+aspect marking
+aspectual auxiliary
+aspectual distinction
+augmented action
+auxiliary 
+benefactive
+
+
+
+
+
+benefactive marking
+beneficiary
+
+
+
+
+
+
+
+beneficiary form
+bilabial
+bilingualism
+body part
+
+
+
+
+calque
+case
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cataphoric reference
+causative
+
+
+
+
+clan
+
+clausal constituent
+
+clause
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clause chaining
+
+
+clitic
+
+
+
+
+
+
+
+
+
+closed question
+clusters
+
+
+co-referentiality
+colour adjective
+colour term
+comitative
+
+
+
+
+comitative clitic
+
+comparative
+
+comparison
+
+
+
+
+
+complement clause
+
+
+
+complement-taking verb
+completive aspect
+
+
+conditional
+
+
+conjunction
+connective
+
+
+
+
+
+
+
+
+container
+continuity
+
+
+continuous aspect
+
+
+
+contrasted element
+coordinate
+
+
+
+
+
+
+
+
+coordinate sentence
+
+coordination
+
+
+copula
+
+counterfactual
+
+
+
+counterfactual form
+
+counting system
+culture
+
+
+
+dative
+
+
+
+
+
+
+dative shift
+declarative
+declarative sentence
+deictic
+
+
+
+
+
+
+
+
+deictic centre
+
+
+
+deictic orientation
+deictic shift
+
+deictic system
+
+demonstrative
+
+
+
+
+
+
+
+
+derivation
+
+
+
+derivational prefix
+descriptive clause
+desiderative clause
+dialect
+
+
+dimension
+diphthong
+direct quote
+
+directional verb
+
+discourse-pragmatic
+disjunction
+
+
+distal
+
+distal demonstrative
+
+
+distal-1 deictic
+
+distal-1 demonstrative
+
+
+ditransitive
+
+double causative
+dual comitative
+dual form
+
+
+
+echo question
+effect clause
+elision
+ellipsis
+elliptical
+
+
+endophoric
+enhanced quality
+environment
+equative clause
+exclusive
+
+existential clause
+experience verb
+experiencer
+
+
+
+
+family
+
+
+
+
+
+final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+final verb
+
+
+
+
+finite
+
+
+
+
+
+
+
+
+
+
+
+finite clause
+
+
+
+
+finite verb
+
+
+
+
+
+focal
+
+
+
+focus
+
+
+
+
+
+
+
+
+
+focus clitic
+
+
+
+
+focus marker
+
+
+
+
+focus marking
+
+
+
+focus of contrast
+fractions
+free adverb
+frequency
+
+
+
+
+
+
+fricative
+future
+
+
+
+
+
+
+
+
+
+
+
+
+geminate vowel
+
+generic verb
+
+genitive
+
+
+
+
+
+
+
+glottal stop
+grammatical word
+grammaticalization
+
+
+
+
+habitual
+
+
+
+
+human propensity
+
+
+
+
+illocutionary force
+imaginative conditional
+imperative
+
+
+
+
+
+
+
+imperative clause
+impersonal predicate
+inceptive meaning
+inchoative
+
+
+
+inchoative verb
+inchoative verbaliser
+
+indefinite
+
+
+
+
+indirect question
+indirect quote
+
+indirect speech
+
+inducive causative
+infinitive
+inflection
+
+
+
+inflectional affix
+inhabitants
+
+
+inherently ditransitive
+instrumental
+
+
+instrumental clitic
+intensifier
+
+intensify
+
+intensifying function
+intensity adverb
+
+
+
+interjection
+
+internal connective
+internal speech
+interrogative
+
+
+
+interrogative marker
+interrogative sentence
+intonation
+
+
+
+
+intonation contour
+
+intonation pattern
+
+irrealis
+
+
+
+iterative action
+iterativity
+
+
+
+kinship system
+
+kinship term
+
+
+
+
+lateral
+limiter
+
+limiter clitic
+limiting clitic
+loan word
+location
+
+
+
+
+
+locative
+
+
+
+
+
+
+
+
+
+
+
+
+locative adverb
+
+
+locative adverbial
+
+
+
+locative clitic
+
+
+locative phrase
+
+
+
+
+
+main clause
+
+
+
+
+
+
+manner adverb
+
+
+manner adverbs
+
+
+manner phrase
+material adverb
+matrix clause
+medial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+medial clause
+
+
+
+
+
+
+
+medial verb
+
+
+
+
+
+
+
+
+
+
+missionaries
+
+modal adverb
+modality
+
+mode
+monosyllabic
+mood
+
+
+morpheme breaks
+morphophonological alternations
+motion verb
+myth
+
+
+
+negate
+
+negation
+
+
+
+
+
+
+
+
+negative interjection
+negator
+
+
+
+
+
+
+
+negator adverb
+nickname
+nominalization
+
+
+
+non-coreferentiality
+non-deictic
+
+non-derived
+non-reduction type
+non-restrictive
+
+non-scalar
+non-verbal predicate
+
+
+
+
+
+
+noun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+noun phrase
+
+
+
+
+
+
+
+
+
+
+
+
+NP
+
+
+
+
+
+
+
+
+number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+numeral
+
+
+
+
+
+
+
+object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+obligation
+
+opposite sex
+
+OSV
+
+
+
+passive
+passive voice
+passivization
+
+past activity
+perception verb
+permission
+person marking
+
+
+
+
+
+phonology
+
+
+phonostatistic method
+physical property
+
+place name
+
+plosives
+plurality
+
+
+
+polar question
+
+politeness
+polysyllabic
+
+portmanteau
+position
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+possessee
+
+possession
+
+
+possessive
+
+
+
+
+
+
+
+possessive clause
+possessive construction
+possessive phrase
+possessor
+
+
+
+
+
+possessor raising
+
+post-modifier
+
+postposition
+
+
+pragmatic connective
+pre-modifier
+predicate function
+predicate-copula
+predication
+
+
+
+predictive conditional
+pretension
+pro-drop
+progressive
+
+prohibition
+pronominal object
+pronoun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+proper name
+
+proper noun
+proposition
+
+protasis
+
+proximate demonstrative
+proximity
+
+purpose clause
+
+
+
+qualifier
+
+
+quantification
+
+quantifier
+
+
+
+
+
+quantifier phrase
+
+question clitic
+
+
+question marker
+
+
+
+
+question word
+
+
+
+
+
+quote formula
+
+
+
+raising of negative
+realis mode
+realis-type verb
+recipient
+
+
+
+
+
+
+reciprocal
+
+recursion
+reduplicate
+reduplication
+
+
+
+
+reference clause
+
+
+reflexive
+
+
+relative clause
+
+
+
+
+
+relative marker
+
+relative proximity
+repetition
+replacive
+restricted use
+restrictive pronoun
+
+result clause
+
+resultative connective
+resultative verb
+right-dislocation
+
+rites of passage
+rituals
+
+
+
+same sex
+semantic valence
+semivowels
+sequential action verb
+sequentiality
+
+
+serial verb
+
+
+similarity
+
+
+
+simple sentence
+
+simultaneity
+
+
+social deixis
+SOV
+
+speaker's location
+spirits
+
+
+
+
+spoken language
+
+standard of comparison
+stative aspect
+
+stative verb
+status system
+stress
+
+
+
+
+
+
+
+
+
+
+stress centre
+stress pattern
+subject
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+subject disambiguation
+subject marking
+
+
+subject pronoun
+
+
+subordinate clause
+
+
+
+suffix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+superlative
+switch-reference 
+syllable
+
+
+
+
+
+
+
+
+syllable type
+syntactic subject
+
+
+syntactic valence
+
+
+
+tail-head linkage
+
+temporal
+
+
+
+
+
+
+
+
+
+
+
+
+
+temporal adverb
+
+temporal deixis
+temporal phrase
+
+temporal subordinate clause
+tense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tense distinction
+tense marking
+
+tense system
+tense-mood system
+text data
+
+theme
+
+
+
+
+
+
+
+
+time span
+tonal language
+topic
+
+
+
+
+
+
+
+
+
+
+topic clitic
+topic continuity
+
+topic marker
+
+
+
+topicality
+
+
+topicalized element
+transitive clause
+
+
+transitive verb
+
+
+
+transitivity
+
+
+
+
+
+
+
+undergoer object
+
+universal quantifier
+universal word order
+unmarked pronoun
+
+
+
+
+utterance verb
+
+
+
+
+velar
+velar nasal
+verb phrase
+
+verb stems
+
+
+verb suffix
+
+verb-final
+verbal answer
+verbal clause
+
+
+verbal cluster
+verbal group
+
+verbal negator
+
+
+verbal suffix
+
+
+verbal suffixation
+verbless clause
+
+
+
+visibility
+vocative
+voicing harmony
+vowel elision
+vowel length
+vowel sequence
+
+
+
+
+word class
+
+
+
+
+
+
+
+
